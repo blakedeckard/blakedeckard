@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blakedeckard!
-- 👀 I’m interested in Python and FOSS!
-- 🌱 I’m currently learning about web development and frameworks such as Flask, Django, and FastAPI!
+- 👀 I’m interested in Python, JavaScript, Web Development and FOSS!
+- 🌱 I’m currently learning about web development and frameworks such as React, Flask, Django, and FastAPI!
 - 💞️ I’m looking to collaborate on anything I can help on!
 - 📫 How to reach me blake.deckard@tutanota.com
 
