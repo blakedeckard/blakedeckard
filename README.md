@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blakedeckard!
-- 👀 I’m interested in Python, Azure, and DevOps!
-- 🌱 I’m currently learning about DevOps technologies as well as studying about Azure!
+- 👀 I’m interested in React, NextJS, Python, Cloud, and DevOps!
+- 🌱 I’m currently learning about NextJS and React!
 - 💞️ I’m looking to collaborate on anything I can help on!
 - 📫 How to reach me blake.deckard.personal@gmail.com
 
