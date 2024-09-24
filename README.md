@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blakedeckard!
-- 👀 I’m interested in Azure, Automation, Cloud, and DevOps!
-- 🌱 I’m currently learning about IaC!
+- 👀 I’m interested in Azure, Automation, Cloud (public, hybrid, and private), and DevOps!
+- 🌱 I’m currently learning about Laravel and DevOps!
 - 💞️ I’m looking to collaborate on anything I can help on!
 - 📫 How to reach me: blake.deckard.personal@gmail.com
 
