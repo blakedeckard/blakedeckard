@@ -13,7 +13,6 @@
 ## Experience
 
 | | |
-| --- | --- |
 | **[Enigma Byte, LLC](https://enigmabyte.dev)**<br>Founder · 2025–26 | Shipped Laravel, React, and HTMX web apps plus React Native mobile apps solo. Built MCP servers for OpenAI and Claude plugins so AI agents can use the products directly. A blind A/B LLM benchmark, then a model and prompt switch, **cut flagged outputs 96% (51% → 2%)**. Ran the Ubuntu servers at **99.98% uptime**. |
 | **[Aderant](https://aderant.com)**<br>Cloud Applications Engineer · 2025 | Kept **1,000+ production EC2 instances** healthy. Refactored the PowerShell monitoring stack and added caching that cut API calls and SQL queries **66–99.9% in testing**. Added a tenant-state guard to the Jenkins deploy pipeline. |
 | **[LyondellBasell](https://lyondellbasell.com)**<br>Cloud Center of Excellence · 2023–25 | Wrote the first-pass Terraform guardrail modules and led the GitHub Actions and Splunk integrations for a greenfield AWS platform. Built a GitHub Actions pipeline that **cut a finance app's deploy time 97–99%**. Recognized at a town hall for finding and fixing security issues. |
