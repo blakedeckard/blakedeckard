@@ -8,7 +8,7 @@
 
 **Open to new roles.** I want to work on challenging problems with fun, hardworking people.
 
-[blakedeckard.com](https://blakedeckard.com) · [戴至诚.com](https://xn--wouq02ekzg.com) · [Hire me](https://blakedeckard.com/hire-me) · [Résumé (PDF)](https://blakedeckard.com/resume/blake-deckard-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/blake-b-deckard/) · [blake.deckard.personal@gmail.com](mailto:blake.deckard.personal@gmail.com)
+[blakedeckard.com](https://blakedeckard.com) · [戴至诚.com](https://xn--wouq02ekzg.com) · [Hire me](https://blakedeckard.com/hire-me) · [Résumé (PDF)](https://blakedeckard.com/resume/blake-deckard-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/blake-b-deckard/) · [X](https://x.com/dzcblake) · [blake.deckard.personal@gmail.com](mailto:blake.deckard.personal@gmail.com)
 
 ## Experience
 
