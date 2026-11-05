@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://blakedeckard.com"><img src="assets/karst-banner.svg" width="100%" alt="1-bit dithered karst towers and a moon over rippled water"></a>
+  <a href="https://blakedeckard.com"><img src="karst-banner.svg" width="100%" alt="1-bit dithered karst towers and a moon over rippled water"></a>
 </p>
 
 # Blake Deckard · 戴至诚
