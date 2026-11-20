@@ -4,7 +4,7 @@
 
 # Blake Deckard · 戴至诚
 
-**Cloud engineer turned founder.** I've run production for 1,000+ servers on AWS, wrote the first-pass Terraform guardrails for a greenfield AWS platform, and then started my own company, where I shipped full-stack AI-powered web and mobile apps by myself. I'm a self-taught developer: I learned Python through college, moved on to SvelteKit, and landed on Laravel. I work in English and Mandarin.
+I've run production for 1,000+ servers on AWS, wrote the first-pass Terraform guardrails for a greenfield AWS platform, and then started my own company, where I shipped full-stack AI-powered web and mobile apps by myself. I'm a self-taught developer: I learned Python through college, moved on to SvelteKit, and landed on Laravel. I work in English and Mandarin.
 
 **Open to new roles.** I want to work on challenging problems with fun, hardworking people.
 
